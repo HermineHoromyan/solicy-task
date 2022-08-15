@@ -1,0 +1,102 @@
+// #region Flex
+
+.G-flex {
+  display: flex;
+}
+
+.G-inline-flex {
+  display: inline-flex;
+}
+
+.G-center {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.G-justify-center {
+  justify-content: center;
+  display: flex;
+}
+
+.G-justify-between {
+  justify-content: space-between;
+  display: flex;
+}
+
+.G-justify-around {
+  justify-content: space-around;
+  display: flex;
+}
+
+.G-justify-end {
+  justify-content: flex-end;
+  display: flex;
+}
+
+.G-align-center {
+  align-items: center;
+  display: flex;
+}
+
+.G-align-start {
+  align-items: flex-start;
+  display: flex;
+}
+
+.G-align-end {
+  align-items: flex-end;
+  display: flex;
+}
+
+.G-flex-column {
+  flex-direction: column;
+  display: flex;
+}
+
+.G-flex-wrap {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+// #endregion
+
+// #startgrid
+
+.G-display-grid {
+  display: grid;
+}
+
+.G-grid-column-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.G-grid-column-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.G-grid-column-4 {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.G-grid-column-5 {
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.G-grid-gap-20 {
+  grid-gap: 20px;
+}
+
+.G-grid-gap-10 {
+  grid-gap: 10px;
+}
+.G-grid-gap-40 {
+  grid-gap: 40px;
+}
+.G-grid-gap-60 {
+  grid-gap:60px;
+}
+
+
+
+// #endtgrid

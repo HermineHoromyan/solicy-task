@@ -1,0 +1,39 @@
+@import "flex-grid";
+@import "normalize";
+@import "mixin";
+
+
+
+.G-block{
+  height: 100vh;
+  &__list{
+    width: 80%;
+    height: 100%;
+  }
+}
+.G-container{
+  width: 100%;
+  padding: 40px;
+}
+
+.G-btn__add, .G-btn__sort{
+  width: 300px;
+  padding: 20px 0;
+  border-radius: 20px;
+  font-size: 24px;
+}
+.G-btn__add:hover, .G-btn__sort:hover{
+  background-color: #162866;
+  color: white;
+  transition: 0.5s;
+}
+.G-btn__add{
+  margin-right: 20px;
+}
+.G-card__block {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: calc(100% - 200px);
+  overflow: auto;
+
+}

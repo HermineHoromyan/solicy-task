@@ -1,0 +1,12 @@
+.P-footer {
+  width: 80%;
+  padding: 30px 0;
+  background-color: #5279EC;
+  position: fixed;
+  bottom: 0;
+
+  &__text {
+    color: white;
+    font-size: 24px;
+  }
+}

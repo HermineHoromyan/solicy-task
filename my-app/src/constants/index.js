@@ -1,0 +1,1 @@
+export const CONST_LOCAL_STORAGE  = 'numbers_card'

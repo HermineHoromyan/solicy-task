@@ -1,0 +1,45 @@
+.P-card {
+  height: 200px;
+  border: 1px solid #162866;
+  position: relative;
+
+  &__number{
+    font-size: 50px;
+  }
+  span{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+}
+.P-close{
+  cursor: pointer;
+}
+.P-close:before{
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 4px;
+  background-color: black;
+  top: 10px;
+  right: 10px;
+  transform: rotate(-45deg);
+  transition: 0.3s;
+}
+.P-close:after{
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 4px;
+  background-color: black;
+  top: 10px;
+  right: 10px;
+  transform: rotate(45deg);
+  transition: 0.3s;
+
+}
+.P-close:hover{
+  &:after, &:before{
+    background-color: #780101;
+  }
+}
