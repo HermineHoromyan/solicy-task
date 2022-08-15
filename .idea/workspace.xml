@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="379325a6-0c95-49cd-ab2d-b22c35847b23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/assets/style/flex-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/assets/style/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/assets/style/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/assets/style/normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/card/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/card/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/footer/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/footer/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/header/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/header/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/instructions/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/instructions/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/store/reducers/NumbersCardSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/store/store.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DNsLU1YcqjBfHoiq621eayIrbu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my-app/src/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hermine.horomyan\Desktop\js and react\solicy-task\my-app\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hermine.horomyan\Desktop\js and react\solicy-task\my-app\src\assets" />
+      <recent name="C:\Users\hermine.horomyan\Desktop\js and react\solicy-task\my-app\public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="379325a6-0c95-49cd-ab2d-b22c35847b23" name="Default Changelist" comment="" />
+      <created>1660550821472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660550821472</updated>
+      <workItem from="1660550826027" duration="973000" />
+      <workItem from="1660551810956" duration="609000" />
+      <workItem from="1660552448478" duration="16804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2639" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1660572364970">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2639" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1660572364970" />
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1660553517443">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1660551506895" />
+    <state x="2610" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1660553517443" />
+    <state x="2605" y="222" key="RollbackChangesDialog" timestamp="1660570484193">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2605" y="222" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1660570484193" />
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1660553020818">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1660553020818" />
+    <state x="2587" y="253" width="585" height="534" key="find.popup" timestamp="1660574737347">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2587" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1660574737347" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1660559907289">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1660559907289" />
+  </component>
+</project>
